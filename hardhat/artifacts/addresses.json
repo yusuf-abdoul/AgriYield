@@ -1,0 +1,11 @@
+{
+  "hederaTestnet": {
+    "farmShares": "0x661C2AbB83101dd1CDe57F5777C146862299416E",
+    "agriYield": "0x380AAae7b3a9ec87Ff6A5CEd5e1a5110B591D7A5",
+    "marketplace": "0x7CA91C3c6B9B9d9d2F29eb0c5840D0D789987D22",
+    "husdt": "0x00000000000000000000000000000000006d3eca",
+    "husdtTokenId": "From .env",
+    "admin": "0x0348DEAAE8cb335171400BddF87604D2E2162b0F",
+    "deployer": "0x0348DEAAE8cb335171400BddF87604D2E2162b0F"
+  }
+}
