@@ -52,7 +52,7 @@ AgriYield addresses this by using Hedera’s DLT to tokenise real-world assets a
 
 ## 🎬 Demo Video
 
-Watch our demo: []  
+Watch our demo: [](https://www.loom.com/share/457b286932a140bfba6ce71606532cf9)
 This video shows installation, how to mint a token, log events, transfer asset, and view dashboard.
 
 ## 📂 Installation & Running
